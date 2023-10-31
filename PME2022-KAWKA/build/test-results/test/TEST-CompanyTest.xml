@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CompanyTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-10-13T14:43:16" hostname="LAPTOP-6TI2OUNJ" time="0.04">
+  <properties/>
+  <testcase name="modifyTurnOver()" classname="CompanyTest" time="0.037"/>
+  <testcase name="modifyName()" classname="CompanyTest" time="0.002"/>
+  <system-out><![CDATA[The company Gleeph who had a turnover of 2000.5 euros has now a turnover of 21000.0 euros.
+The company has won 19000 euros.
+The company Gleeph who had a turnover of 21000.0 euros has now a turnover of 23000.0 euros.
+The company has won 2000 euros.
+The company Gleeph has changed its name. It is now named as F451.
+The company F451 has changed its name. It is now named as LVMH.
+The company LVMH has changed its name. It is now named as Adidas.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

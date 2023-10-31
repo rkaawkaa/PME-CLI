@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ExecutiveTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-10-13T14:43:16" hostname="LAPTOP-6TI2OUNJ" time="0.003">
+  <properties/>
+  <testcase name="changeGrade()" classname="ExecutiveTest" time="0.002"/>
+  <testcase name="getExeGrade()" classname="ExecutiveTest" time="0.001"/>
+  <system-out><![CDATA[BO Jean has now a grade of B and a prime of 200.
+BO Jean has now a grade of A and a prime of 300.
+BO Jean has now a grade of A and a prime of 300.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
