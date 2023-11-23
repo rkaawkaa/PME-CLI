@@ -26,7 +26,7 @@ N'hésitez pas à essayer l'application via la console pour mieux comprendre son
 
 ## Pour voir la documentation
 
-Pour voir la documentation générale, suivez ce lien : https://forge.iut-larochelle.fr/rkawka/pme2022-kawka-robin/-/wikis/Documentation-g%C3%A9n%C3%A9rale.<br>
+Pour voir la documentation générale, suivez ce lien : https://github.com/rkaawkaa/PME-CLI/wiki.<br>
 Pour aller au sommaire de la documentation, suivez celui-ci: 
 https://forge.iut-larochelle.fr/rkawka/pme2022-kawka-robin/-/wikis/Sommaire
 
