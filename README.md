@@ -6,7 +6,7 @@
 
 Vous pouvez cloner le projet en allant dans un dossier de votre ordinateur, et en executant la commande :
 ```
-git clone https://forge.iut-larochelle.fr/rkawka/pme2022-kawka-robin.git
+git clone https://github.com/rkaawkaa/PME-CLI.git
 ```
 
 Vous récupererez toute l'arborescence, il vous suffit ainsi d'ouvrir un IDE comme Intellij par exemple et d'ouvrir ce dossier. 
@@ -17,7 +17,7 @@ Les fichiers tests se trouvent dans le dossier src/test/kotlin.
 
 ## Pour éxecuter le fichier jar
 
-Le fichier jar associé au projet est déjà crée. Pour accéder au fichier jar, suivez ce lien:<br> https://forge.iut-larochelle.fr/rkawka/pme2022-kawka-robin/-/tree/main/PME2022-KAWKA/build/libs ,ou alors dans votre IDE, et dans le dossier **build/libs**, faire clique droit sur le fichier jar puis run. <br>Vous pouvez également passer par le terminal. Dans un terminal allez dans le dossier du jar **(build/Libs)**  puis executez le avec la fonction: 
+Le fichier jar associé au projet est déjà crée. Pour accéder au fichier jar, suivez ce lien:<br> https://github.com/rkaawkaa/PME-CLI/-/tree/main/PME-CLI/build/libs, ou alors dans votre IDE, et dans le dossier **build/libs**, faire clique droit sur le fichier jar puis run. <br>Vous pouvez également passer par le terminal. Dans un terminal allez dans le dossier du jar **(build/Libs)**  puis executez le avec la fonction: 
 ``` 
 java -jar PME2022T-1.0-SNAPSHOT.jar 
 ```
