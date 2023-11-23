@@ -27,8 +27,7 @@ N'hésitez pas à essayer l'application via la console pour mieux comprendre son
 ## Pour voir la documentation
 
 Pour voir la documentation générale, suivez ce lien : https://github.com/rkaawkaa/PME-CLI/wiki.<br>
-Pour aller au sommaire de la documentation, suivez celui-ci: 
-(https://github.com/rkaawkaa/PME-CLI/wiki/Sommaire)](https://github.com/rkaawkaa/PME-CLI/wiki/Sommaire).
+Pour aller au sommaire de la documentation, suivez celui-ci: https://github.com/rkaawkaa/PME-CLI/wiki/Sommaire.
 
 
 ## PS :
